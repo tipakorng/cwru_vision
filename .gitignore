@@ -1,7 +1,4 @@
 *~
 .idea
 cmake-build-debug
-<<<<<<< HEAD
 *.pdf
-=======
->>>>>>> Remove conditional drawing from renderCylinder. (#24)
